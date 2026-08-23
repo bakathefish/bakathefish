@@ -3,9 +3,7 @@
 Building real things end to end: PCBs, firmware, and the ML/data pipelines behind them. ISEF 2026.
 
 **Currently shipping**
-- 🛰️ [Galnav](https://github.com/bakathefish/Galnav) — ISEF research on the observability limits of starlight + pulsar interstellar navigation
 - 🌊 [Flood (Sailaab)](https://github.com/bakathefish/Flood) — open SAR flood mapping, a decade hazard atlas, and a live trilingual flood-risk monitor for Punjab, India
-- 🔭 [jwst-multiview](https://github.com/bakathefish/jwst-multiview) — multi-modal unsupervised ML across 342K JWST galaxies, with a 6-method Little Red Dot selection engine
 
 **Hardware builds**
 - [LANYARD](https://github.com/bakathefish/LANYARD) — e-ink lanyard, phone-updatable over WiFi
