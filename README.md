@@ -17,4 +17,7 @@ Student in Amritsar, India. I build hardware, software and do sidequests
 - [MORSEY](https://github.com/bakathefish/MORSEY): keychain that decodes Morse taps
 - [LED-PANEL](https://github.com/bakathefish/LED-PANEL): 234-pixel addressable LED panel
 
+**RC Boat Thingy** (with [@aneesharnavch](https://github.com/aneesharnavch))
+- [RC_boat_controller_thingy](https://github.com/aneesharnavch/RC_boat_controller_thingy): a complete radio-controlled boat system we designed together, boards and firmware. A custom RP2040 boat controller with an IMU, barometer and GPS, a custom ESP32-S3 hand transmitter with two sticks and status LEDs in a snap-fit 3D-printed case, and an nRF24 link with its own packet protocol. The boat firmware has an attitude estimator, PID heading and speed hold, assisted steering, throttle-gated arming, a kill switch and a link-loss failsafe. Schematics, Gerbers, CAD, BOM and a zine are all in the repo.
+
 **Now**: a balloon-launched rocket, and organising a Hack Club game jam in Amritsar this November.
