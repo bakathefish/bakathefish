@@ -8,7 +8,6 @@ Student in Amritsar, India. I build hardware, software and the data pipelines be
 
 **Software**
 - [ASTRO-OS](https://github.com/bakathefish/ASTRO-OS): an Arch-based Linux distribution for astronomy and research work.
-- [sotto](https://github.com/bakathefish/sotto): an open-source desktop overlay assistant that works from your own files and keys.
 - [airlock](https://github.com/bakathefish/airlock): a small platformer made in Godot. [Play it on itch.io](https://bakathefish.itch.io/airlock).
 
 **Hardware**
