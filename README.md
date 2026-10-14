@@ -1,6 +1,6 @@
 ### Rudra Puri
 
-Student in Amritsar, India. I build hardware, software and the data pipelines behind them, and I run my school's Hack Club.
+Student in Amritsar, India. I build hardware, software and do sidequests
 
 **Research**
 - [redress](https://github.com/bakathefish/redress): machine learning on JWST survey data, finding a class of compact red galaxies that published selection rules miss.
